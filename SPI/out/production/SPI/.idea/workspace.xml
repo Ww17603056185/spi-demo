@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b339629d-16d5-4467-b4fe-8dc05322c2c1" name="Default Changelist" comment="" />
+    <list default="true" id="b339629d-16d5-4467-b4fe-8dc05322c2c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPI/META-INF/SPI.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPI/src/main/resource/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPI/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1fXHTeOkPdU99VlK6Oghinj5DGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SPI-CLINE/src/main/resource/META-INF/Services" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2875" />
     <property name="project.structure.side.proportion" value="0.35287356" />
@@ -101,7 +111,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596357525092</updated>
-      <workItem from="1596357531350" duration="3497000" />
+      <workItem from="1596357531350" duration="4367000" />
+      <workItem from="1596370390341" duration="59000" />
     </task>
     <servers />
   </component>
@@ -109,10 +120,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="214" y="41" key="#Project_Structure" timestamp="1596362475291">
+    <state x="100" y="39" width="986" height="685" key="#Project_Structure" timestamp="1596370528562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="214" y="41" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596362475291" />
+    <state x="100" y="39" width="986" height="685" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596370528562" />
     <state x="377" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596360586678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -141,38 +152,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596361929645" />
-    <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1596362255986">
+    <state width="1322" height="170" key="GridCell.Tab.0.bottom" timestamp="1596370449274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596362255986" />
-    <state width="1322" height="168" key="GridCell.Tab.0.center" timestamp="1596362255986">
+    <state width="1322" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596370449274" />
+    <state width="1322" height="170" key="GridCell.Tab.0.center" timestamp="1596370449274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596362255986" />
-    <state width="1322" height="168" key="GridCell.Tab.0.left" timestamp="1596362255986">
+    <state width="1322" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596370449274" />
+    <state width="1322" height="170" key="GridCell.Tab.0.left" timestamp="1596370449274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596362255986" />
-    <state width="1322" height="168" key="GridCell.Tab.0.right" timestamp="1596362255986">
+    <state width="1322" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596370449274" />
+    <state width="1322" height="170" key="GridCell.Tab.0.right" timestamp="1596370449274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596362255986" />
-    <state width="1322" height="168" key="GridCell.Tab.1.bottom" timestamp="1596362243233">
+    <state width="1322" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596370449274" />
+    <state width="1322" height="312" key="GridCell.Tab.1.bottom" timestamp="1596367775951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596362243233" />
-    <state width="1322" height="168" key="GridCell.Tab.1.center" timestamp="1596362243232">
+    <state width="1322" height="312" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596367775951" />
+    <state width="1322" height="312" key="GridCell.Tab.1.center" timestamp="1596367775951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596362243232" />
-    <state width="1322" height="168" key="GridCell.Tab.1.left" timestamp="1596362243232">
+    <state width="1322" height="312" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596367775951" />
+    <state width="1322" height="312" key="GridCell.Tab.1.left" timestamp="1596367775951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596362243232" />
-    <state width="1322" height="168" key="GridCell.Tab.1.right" timestamp="1596362243233">
+    <state width="1322" height="312" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596367775951" />
+    <state width="1322" height="312" key="GridCell.Tab.1.right" timestamp="1596367775951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596362243233" />
+    <state width="1322" height="312" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596367775951" />
     <state x="323" y="60" key="NewModule_or_Project.wizard" timestamp="1596360897691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -181,6 +192,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="47" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596362426841" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1596370501798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596370501798" />
     <state x="53" y="0" key="new project wizard" timestamp="1596360632677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -195,12 +210,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/wen/Test.java</url>
-          <line>12</line>
+          <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../SPI-CLINE/src/main/java/SpiTest.java</url>
-          <line>10</line>
+          <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
